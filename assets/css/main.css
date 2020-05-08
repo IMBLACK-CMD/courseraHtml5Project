@@ -1,0 +1,29 @@
+.progress-bar {
+  background-color: whiteSmoke;
+  border-radius: 2px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.25) inset;
+
+  width: 250px;
+  height: 20px;
+  
+  position: relative;
+  display: inline;
+}
+  
+.progress-bar > span {
+  background-color: blue;
+  border-radius: 2px;
+
+  display: ;
+  text-indent: -9999px;
+}
+#progressbar1{
+	clear: both;
+	margin: 0;
+}
+footer .p_text{
+	margin-left:320px;
+}
+footer img{
+	margin-bottom: -55px;
+}
